@@ -1,0 +1,14 @@
+.idea
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# virtualenv
+venv/
+lib/
+
+*.bat 
